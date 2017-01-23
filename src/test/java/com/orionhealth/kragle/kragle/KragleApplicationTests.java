@@ -1,4 +1,4 @@
-package com.orionhealth.kragle;
+package com.orionhealth.kragle.kragle;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
